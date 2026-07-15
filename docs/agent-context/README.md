@@ -70,8 +70,9 @@ Terminated cleanly: all branches pushed, working tree left on `feature/gapless-p
 server running, no uncommitted work anywhere. PRs #50/#51/#52 and issues #53/#54 all OPEN
 with **no maintainer response yet** — checking for and responding to maintainer feedback is
 the most likely next task (`gh pr view <n> --repo chromatix-app/chromatix-app --comments`).
-The user's drafted r/chromatix intro post is preserved as `reddit-post-draft.md` in this
-directory (posting is the user's call; unknown whether they have). Next unstarted work, in
+The user posted the r/chromatix intro announcing the three PRs:
+https://old.reddit.com/r/chromatix/comments/1uw32dn/i_made_some_contributionswent_down_a_rabbit_hole/
+— watch it (and the PRs) for maintainer/community responses. Next unstarted work, in
 likely order: maintainer feedback → playback-correctness fix PR (#53+#54, AFTER #50/#52
 settle) → README wishlist item 2 (virtualised-list perf, Plex API optimisation — no
 research done) → multi-library Phase 0 (fully planned in `../../multi-library-plan.md`,
